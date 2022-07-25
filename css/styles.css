@@ -23,15 +23,6 @@ h3{
     position: relative;
     padding-top: 100px;
 }
-
-.middle-container{
-    /* To be soon developed */
-}
-
-.bottom-container{
-    /* To be soon developed */
-}
-
 h1{
     margin-top: 0px;
 }
@@ -48,7 +39,7 @@ h1{
     top: 200px;
 }
 
-img{
+.profile-img, .skill-img{
     border-radius: 50%;
     width: 125px;
     height: 125px;
